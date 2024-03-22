@@ -1,0 +1,50 @@
+{
+  "name": "cupiditatenatus",
+  "description": "Core smart contracts of the Sablier V2 token streaming protocol",
+  "license": "BUSL-1.1",
+  "version": "1.0.0",
+  "author": "LonnyDonnelly",
+  "bugs": {
+    "url": "https://github.com/LorenaDavis/cupiditatenatus.git/issues"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.9.2",
+    "@prb/math": "4.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "solhint-community": "^3.5.2"
+  },
+  "files": [
+    "artifacts",
+    "src",
+    "CHANGELOG.md",
+    "LICENSE-GPL.md"
+  ],
+  "keywords": [
+    "ut",
+    "saepe",
+    "ut",
+    "aliquam",
+    "quia",
+    "foundry",
+    "money-streaming",
+    "tenetur",
+    "omnis",
+    "sablier-v2",
+    "smart-contracts",
+    "solidity",
+    "token-streaming"
+  ],
+  "peerDependencies": {
+    "@openzeppelin/contracts": "4.9.2",
+    "@prb/math": "4.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LorenaDavis/cupiditatenatus.git"
+  }
+}
